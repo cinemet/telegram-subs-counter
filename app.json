@@ -11,7 +11,7 @@
         },
         "USERNAME": {
             "description": "Telegram channel's username. Don't give '@'",
-            "value": "tprojects"
+            "value": "cfchatofficial"
         }
     }
 }
